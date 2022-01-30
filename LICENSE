@@ -88,16 +88,9 @@
                         <ul  class="fa-ul">
                            <li><span class="fa-li"><i class="fas fa-check-square"></i></span>JavaScript</li>
                            <li><span class="fa-li"><i class="fas fa-check-square"></i></span>HTML5</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS/SCSS</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>React JS</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Next.JS</li>
-                        </ul>
-                        <ul  class="fa-ul">
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Version Control</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>UI/UX Design</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS/SCSS</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Firebase</li>
-                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Adobe XD</li>
+                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS</li>
+                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>C/C++</li>
+                           <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Python</li>
                         </ul>
                         </div>
                      </div>
@@ -113,7 +106,7 @@
             </div>
          </div>
       </section>
-      <section class="services" id="services">
+      <!--<section class="services" id="services">
          <div class="container">
             <div class="row">
                <div class="title text-center">
@@ -170,7 +163,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section-->
       <section class="portfolio" id="portfolio">
          <div class="container">
             <div class="row">
